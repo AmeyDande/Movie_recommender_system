@@ -4,7 +4,9 @@ A movie recommender built in two phases: a **traditional content-based model** (
 
 Search for a movie, pick the exact title, and get similar movies ranked by genres, top cast, director and plot text.
 
-<!-- Add a screenshot of the Streamlit app here: ![App screenshot](screenshot.png) --> ![alt text](image.png)
+
+<img src="image.png" alt="Movie Recommender app" width="800"> 
+
 
 ## 🌐 Live demo
 
