@@ -3,3 +3,4 @@ __pycache__/
 data/
 fetch_tmdb_credits.py
 tmdb_credits_extra.csv
+image.png
