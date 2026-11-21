@@ -5,7 +5,7 @@ import requests
 import streamlit as st
 
 # local by default; after deploying, set API_URL to your Render URL (env variable or Streamlit secret)
-API_URL = os.getenv('API_URL', 'http://127.0.0.1:8000')
+API_URL = os.getenv('API_URL', 'https://movie-recommender-system-qnvy.onrender.com')
 
 st.set_page_config(page_title='Movie Recommender', page_icon='🎬')
 st.title('🎬 Movie Recommender')
